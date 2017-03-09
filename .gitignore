@@ -9,3 +9,17 @@
 !/Keepa/tmp/.keep
 
 Keepa/.byebug_history
+
+
+
+/KeepaClient/.bundle
+
+/KeepaClient/db/*.sqlite3
+/KeepaClient/db/*.sqlite3-journal
+
+/KeepaClient/log/*
+/KeepaClient/tmp/*
+!/KeepaClient/log/.keep
+!/KeepaClient/tmp/.keep
+
+KeepaClient/.byebug_history
