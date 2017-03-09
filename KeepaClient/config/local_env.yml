@@ -1,0 +1,6 @@
+server_base_url: 'http://localhost:3000'
+
+# github loves secret tokens!
+oauth_token: 'b03da7577e0181054d8d442e9dc4e6d12d3e5541846ece826be06410ceb71fb9'
+oauth_secret: 'ac5dbdb209c9c55bed54813d3756202d97479a2d22eb783cb5b2d638ad1189cd'
+oauth_redirect_url: 'http://localhost:3001/oauth/callback'
