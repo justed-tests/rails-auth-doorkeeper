@@ -1,0 +1,11 @@
+/Keepa/.bundle
+
+/Keepa/db/*.sqlite3
+/Keepa/db/*.sqlite3-journal
+
+/Keepa/log/*
+/Keepa/tmp/*
+!/Keepa/log/.keep
+!/Keepa/tmp/.keep
+
+Keepa/.byebug_history
